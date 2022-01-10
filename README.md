@@ -1,0 +1,2 @@
+# N-HumansGameUsingThreads
+N humans are sitting around a silver plate. For every round, at an unknown moment in time, a marble appears on the plate visible for all player at the same time. Every player tries to grab the marble and and if successful takes it from the table. Only one player will be able to take the marble from the table. The game last for 100 rounds. The one with the most marbles win.
